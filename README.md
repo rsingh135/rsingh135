@@ -1,5 +1,35 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=28&pause=1000&color=29F772&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Ranveer+Singh)](https://git.io/typing-svg)
 
+I am a Sophomore at Princeton University studying computer science
+
+- 🔭 I’m currently working on an iOS app for motivation
+- 🌱 I'm currently learning Ruby on Rails
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,ruby" />
+</p>
+
+<hr>
+
+
+<br>
+
+<div align="center">
+  <a href="rsingh462890@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ranveersingh-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
 <!--
 **rsingh135/rsingh135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
