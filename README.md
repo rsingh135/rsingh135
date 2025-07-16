@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=28&pause=1000&color=29F772&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Ranveer+Singh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=28&pause=1000&color=29F772&background=FFFFFF00&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Ranveer+Singh)](https://git.io/typing-svg)
+
+[<img src="./github-header-image.png">](https://rs1ngh.com/)
 
 I am a Sophomore at Princeton University studying computer science
 <img align="right" height="130" src="animation-cartoons.gif" />
 - 🔭 I’m currently working on an iOS app for motivation
 - 🌱 I'm currently learning Ruby on Rails
-
-
 
 ## 🛠️ Languages and Tools
 
