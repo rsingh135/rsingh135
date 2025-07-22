@@ -11,13 +11,13 @@ I am a Sophomore at Princeton University studying computer science
 
 <br>
 
-<p align="center">
+<img align="right" src="https://readme-jokes.vercel.app/api?theme=omni" alt="Jokes Card" />
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs" />
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,ruby" />
 </p>
-
-<hr>
 
 ## 🐍 My Contributions
 
@@ -29,7 +29,16 @@ I am a Sophomore at Princeton University studying computer science
   </picture>
 </div>
 
-<hr>
+
+## 🎧 Currently Listening To
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rsingh.ala03&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rsingh.ala03&redirect=true)
+
+
+</div>
+
 
 <br>
 
@@ -42,16 +51,10 @@ I am a Sophomore at Princeton University studying computer science
   </a>
 </div>
 
-<hr>
-
-## 🎧 Currently Listening To
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rsingh.ala03&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rsingh.ala03&redirect=true)
 
 
-</div>
+
+
 <!--
 **rsingh135/rsingh135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
