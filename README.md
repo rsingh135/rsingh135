@@ -4,8 +4,9 @@
 
 I am a Sophomore at Princeton University studying computer science
 <img align="right" height="130" src="animation-cartoons.gif" />
-- 🔭 I’m currently working on an iOS app for motivation
+- 🔭 I’m currently working on an iOS app for motivation (Launching August 15th)
 - 🌱 I'm currently learning Ruby on Rails
+- 🃏 In my free time I like to learn new magic tricks
 
 ## 🛠️ Languages and Tools
 
