@@ -30,7 +30,7 @@ I am a Sophomore at Princeton University studying computer science
   </picture>
 </div>
 
-
+<!--
 ## 🎧 Currently Listening To
 
 <div align="center">
@@ -39,6 +39,7 @@ I am a Sophomore at Princeton University studying computer science
 
 
 </div>
+!-->
 
 
 <br>
