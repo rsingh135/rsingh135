@@ -16,10 +16,9 @@
 
 Hey! I'm a Junior at **Princeton University** studying computer science. 
 
-* 📱 **Current Focus:** Building [Otto](https://www.heyotto.me/), the AI you can text to lock in.
-* 🔭 **Research & Safety:** Working on building better safety infrastructure for Agentic AI.
-* 🌱 **Graphics & Vision:** Deep diving into advanced methods for 3D/4D rendering, neural rendering, and spatiotemporal modeling (NeRFs, Gaussian Splatting, etc.).
-* 🃏 **In my free time:** Practicing and learning new magic tricks.
+* Working on [Otto](https://www.heyotto.me/), a personal AI you text to stop doomscrolling
+* Built the first pipeline for relighting 4D Gaussian Scenes (artificial training data for robotics)
+* Currently training for a half marathon, learning new magic tricks, and playing guitar
 
 ---
 
